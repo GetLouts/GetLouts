@@ -1,13 +1,8 @@
 <!-- ### Alejandro Rangel -->
 
 ![Banner Linkedin](https://github.com/GetLouts/GetLouts/assets/87172222/89a0a556-0bba-4d98-9d2b-8fe048cc547b)
-
-## Encuéntrame en la web 🌎
-- 💼 <a href="https://www.linkedin.com/in/getlouts/" target="_blank">LinkedIn</a>
-- 👩🏾‍💻 <a href="https://portfolioarangel.netlify.app/" target="_blank">Portfolio</a> 
-<h3>
- ★ Lenguajes de programación, Frameworks & Librerías favoritas
-</h3> 
+ 
+<h3> ★ Lenguajes de programación, Frameworks & Librerías favoritas </h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -35,6 +30,10 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
+
+## Encuéntrame en la web 🌎
+- 💼 <a href="https://www.linkedin.com/in/getlouts/" target="_blank">LinkedIn</a>
+- 👩🏾‍💻 <a href="https://portfolioarangel.netlify.app/" target="_blank">Portfolio</a>
 
 <!-- ### TOP Repositores
 
