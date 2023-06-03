@@ -32,7 +32,7 @@
 </p>
 
 ## Encuéntrame en la web 🌎
-- 💼 <img src="https://img.shields.io/twitter/url?color=gray&label=Linkedin&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgetlouts%2F">
+- 💼 <a href="https://www.linkedin.com/in/getlouts/" target="_blank">Linkedin</a>
 - 👩🏾‍💻 <a href="https://portfolioarangel.netlify.app/" target="_blank">Portfolio</a>
 
 <!-- ### TOP Repositores
