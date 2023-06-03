@@ -2,6 +2,9 @@
 
 ![Banner Linkedin](https://github.com/GetLouts/GetLouts/assets/87172222/89a0a556-0bba-4d98-9d2b-8fe048cc547b)
 
+## Find me around the web 🌎:
+- Sharing updates on <a href="https://www.linkedin.com/in/getlouts/" target="_blank">LinkedIn</a> 💼
+- Sharing updates on <a href="https://portfolioarangel.netlify.app/" target="_blank">Portfolio</a> 👩🏾‍💻
 <h3>
  ★ Favorite Programming Languages, Frameworks & Libraries
 </h3> 
