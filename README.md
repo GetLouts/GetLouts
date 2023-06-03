@@ -2,11 +2,11 @@
 
 ![Banner Linkedin](https://github.com/GetLouts/GetLouts/assets/87172222/89a0a556-0bba-4d98-9d2b-8fe048cc547b)
 
-## Find me around the web 🌎:
+## Encuéntrame en la web 🌎
 - 💼 <a href="https://www.linkedin.com/in/getlouts/" target="_blank">LinkedIn</a>
 - 👩🏾‍💻 <a href="https://portfolioarangel.netlify.app/" target="_blank">Portfolio</a> 
 <h3>
- ★ Favorite Programming Languages, Frameworks & Libraries
+ ★ Lenguajes de programación, Frameworks & Librerías favoritas
 </h3> 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -16,22 +16,18 @@
   <!-- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> -->
 </p>
 
-<h3>
- Others
-</h3>
+<h3>Otros</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-<h3>
- Databases 
-</h3> 
+<h3>Base de Datos</h3> 
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<h4>Tools & Technologies</h4>
+<h4>Herramientas y Tecnologías</h4>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
